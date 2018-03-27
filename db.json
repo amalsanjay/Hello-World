@@ -1,0 +1,76 @@
+
+
+{ "Cand": [
+        {
+            "CandidateID": 3592,
+            "BatchID": 1414,
+            "TrainingType": "RPL",
+            "PartnerId": "18",
+            "PartnerName": "IL & FS Skills Development Corporation Limited",
+            "CentreId": "7",
+            "CentreName": "abcds pvt ltd",
+            "TC State": "Karnataka",
+	    "Job Role Code": "ELE/Q4601",
+	    "Job Role Name": "Field Technician - Computing and Peripherals - Level - 4",
+	    "Batch CreatedDate" : "16-11-2017" ,
+	    "BatchStartDate" : "23-11-2017",
+	    "BatchEndDate" : "26-02-2018" ,
+	    "CandidateName": "Angala Eswari",
+            "AadhaarNumber": "XXXXXXXX8074",
+            "AlternateIDType": "",
+            "AlternateIDNumber": "XXXXXXXX927T",
+            "TraineeAddressLine1": "downtown",
+            "Pincode": 560093,
+            "Locality": "ABBAIAH REDDY L/O",
+            "Village": "",
+            "PostOffice": "C.V.Raman Nagar S.O",
+            "SubDistrict": "Bangal66ore North",
+            "State": "Karnataka",
+            "MobileNo": "7204042000",
+            "LandlineNumber": null,
+            "EmailAddress": "test@domain.com",
+ 	    "Number of Candidates in Batch": "30"
+            
+        },
+        {
+            "CandidateID": 3601,
+            "BatchID": 1414,
+            "TrainingType": "RPL",
+            "PartnerId": "18",
+            "PartnerName": "IL & FS Skills Development Corporation Limited",
+            "CentreId": "7",
+            "CentreName": "abcds pvt ltd",
+	    "TC State": "Karnataka",
+	    "Job Role Code": "ELE/Q4601",
+	    "Job Role Name": "Field Technician - Computing and Peripherals - Level - 4",            
+	    "Batch CreatedDate" : "16-11-2017" ,
+	    "BatchStartDate" : "23-11-2017",
+	    "BatchEndDate" : "26-02-2018" ,	    
+	    "CandidateName": "Shoba Narasimman",
+            "AadhaarNumber": "XXXXXXXX8388",
+            "AlternateIDType": "",
+            "AlternateIDNumber": "XXXXXXXX927T",
+            "TraineeAddressLine1": "qweerty",
+            "Pincode": 560093,
+            "Locality": "ABBAIAH REDDY L/O",
+            "Village": "",
+            "PostOffice": "C.V.Raman Nagar S.O",
+            "SubDistrict": "Bangalore North",
+            "State": "Karnataka",
+            "MobileNo": "9738404926",
+            "LandlineNumber": "19738404926",
+            "EmailAddress": "c.likith9@gmail.com",
+             "Number of Candidates in Batch": "30"
+        },
+      
+
+
+
+],
+    "TotalPages": 3,
+    "PreviousPage": "0",
+    "NextPage": "2",
+    "TotalRecords": 21,
+    "PageNumber": 1,
+    "PageSize": 10
+}
